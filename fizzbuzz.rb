@@ -4,9 +4,9 @@ def fizzbuzz(int)
     "Fizz"
 
   else int % 5 == 0
-    puts "Buzz"
+    "Buzz"
 
   elseif int % 15 == 0
-    puts "FizzBuzz"
+    "FizzBuzz"
   end
 end
